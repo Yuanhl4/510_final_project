@@ -7,7 +7,7 @@ from pyecharts import options as opts
 from streamlit_echarts import st_pyecharts
 
 
-image_path = '/Users/apple/Downloads/510_final_project/1.png'
+image_path = '1.png'
 df = pd.read_csv('pal_index.csv')
 
 
