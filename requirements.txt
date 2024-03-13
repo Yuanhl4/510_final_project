@@ -6,3 +6,5 @@ plotly
 lxml
 matplotlib
 pyecharts
+pyecharts
+streamlit-echarts
